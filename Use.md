@@ -18,4 +18,6 @@
 
 Execl单元格不能为空。
 
-在下图Execl实例中,
+在下图Execl实例中,与上个步骤的Word模板关键词数量一致，并后续创建创建10个Word文档。
+
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/1.jpg)
