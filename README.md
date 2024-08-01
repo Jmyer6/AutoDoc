@@ -6,6 +6,7 @@
 
 ## 二、使用方法
 
+<a href="https://github.com/Jmyer6/AutoDoc/blob/main/Use.md">使用方法</a>
 
 ## 三、例子视频
 
