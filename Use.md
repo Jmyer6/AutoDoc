@@ -52,6 +52,8 @@ Ps. 单元格不能为空
 
 只能有1列数据，且数据数量和数据表中列数一致(实例中Execl数据表有10列数据)
 
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/3.jpg)
+
 # 5. 打开软件
 
 # 6. 在软件中载入Word模板
@@ -71,6 +73,8 @@ Ps. 单元格不能为空
 
 检查软件识别的关键词数量是否和“2步骤”设置的关键词数量一致
 
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/4.jpg)
+
 # 9. 在软件中载入Execl文件
 
 载入方法如下
@@ -81,6 +85,8 @@ Ps. 单元格不能为空
 # 10. 在软件中选择Execl数据表
 
 在下拉框中选择数据表
+
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/5.jpg)
 
 # 11. 在软件中设置保存路径
 
@@ -95,9 +101,13 @@ Ps. 单元格不能为空
 
 Ps. 在命名规则框中可拖动切换顺序
 
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/6.jpg)
+
 # 13. 在软件中检查生成的路径及文件名
 
 在表格中会依据“11步骤、12步骤”设置的参数生成Word文档的预保存信息，核对是否和自己想要的一致。
+
+![image](https://github.com/Jmyer6/AutoDoc/blob/main/picture/7.jpg)
 
 # 14. 生成文档
 
